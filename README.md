@@ -75,16 +75,3 @@ The platform is built on a scalable backend architecture ensuring continuous ava
 
 ---
 
-## 👨‍💻 Project Roles
-
-This project was developed as a collaborative effort:
-- **Gözde Ulu:** Mobile Development (React Native), Backend Infrastructure (Node.js/Supabase), and AI Integration.
-- **[Arkadaşının İsmi]:** [Onun Sorumlulukları].
-
----
-
-## 📝 Usage & Installation
-
-1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/gozdeulu07/BloomEdu.git](https://github.com/gozdeulu07/BloomEdu.git)
