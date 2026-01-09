@@ -71,9 +71,6 @@ The platform is built on a scalable backend architecture ensuring continuous ava
 <img width="240" height="525" alt="image" src="https://github.com/user-attachments/assets/4ae03e2b-4057-4c4b-9070-0eb4425ba620" />
 <img width="370" height="555" alt="image" src="https://github.com/user-attachments/assets/8f5e1c6f-14bc-46b2-a2b5-cc0717e3cb18" />
 
-
-| Login Screen | Dashboard | AI Chatbot |
-| :---: | :---: | :---: |
 | ![Login](https://via.placeholder.com/200x400) | ![Dashboard](https://via.placeholder.com/200x400) | ![Chatbot](https://via.placeholder.com/200x400) |
 
 ---
